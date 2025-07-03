@@ -9,7 +9,7 @@ main:
     url: people
     weight: 10
   - name: Publications
-    url: publications
+    url: publication
     weight: 20
   - name: Research
     url: research
